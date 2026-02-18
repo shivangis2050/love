@@ -1,4 +1,4 @@
-
+<script type="text/babel" data-type="module" data-presets="typescript,react" src="index.tsx"></script>
 import React, { useState, useCallback, useRef, useEffect } from 'react';
 import { Heart, Stars, HeartHandshake, Volume2, VolumeX, Music, LockOpen } from 'lucide-react';
 import FloatingHearts from './components/FloatingHearts';
